@@ -5,7 +5,7 @@
 # https://github.com/AdAway/adaway.github.io/
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# https://github.com/KnightmareVIIVIIXC/adaway/raw/refs/heads/master/0hosts.txt
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
